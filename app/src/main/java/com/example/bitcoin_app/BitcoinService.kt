@@ -35,5 +35,6 @@ interface BitcoinService {
 
             return retrofit.create(BitcoinService :: class.java)
         }
+
     }
 }
